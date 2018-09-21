@@ -10,8 +10,8 @@ Sounds contains all audio used in game, while images provides the aliens and shi
 High_scores contains a plain text list of the highest three scores with default values of 
     1000, 2500, 5000. Achieveing a higher score will write to that file accordingly.
 
-I was unsure what I needed to upload so the entire contents of the project were uploaded to gitHub,
-including .idea, _pycache_ and venv.
+I was unsure what I needed to upload so I only inluded contents of the project that were created or used by me to gitHub,
+which means .idea, _pycache_ and venv were ignored but are available if needed later.
 
 The images are based on the original space invaders art.
 The audio is courtesy of Freesound.org. All licensed under Creative Commons.
