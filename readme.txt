@@ -12,3 +12,11 @@ High_scores contains a plain text list of the highest three scores with default 
 
 I was unsure what I needed to upload so the entire contents of the project were uploaded to gitHub,
 including .idea, _pycache_ and venv.
+
+The images are based on the original space invaders art.
+The audio is courtesy of Freesound.org. All licensed under Creative Commons.
+
+Short Space Theme by TheFlakesMasste
+Silenced Gunshot 4.wav by morganpurkis
+explode3.ogg by rendensh
+pew pew sound effect by ani_music
